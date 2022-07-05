@@ -34,3 +34,5 @@
     </video>
 
 <br />
+
+上传视频文件通过创建Version工具即可，参考 [发布一个版本](VERSION.md)
