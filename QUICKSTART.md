@@ -12,3 +12,4 @@
 -   [发布一个版本](quickstart/VERSION.md)
 -   [提交 Timelog](quickstart/TIMELOG.md)
 -   [批注或答复](quickstart/NOTE&REPLY.md)
+-   [视频回放](quickstart/REVIEWER.md)

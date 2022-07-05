@@ -12,6 +12,7 @@
     * [发布一个版本](quickstart/VERSION.md)
     * [提交Timelog](quickstart/TIMELOG.md)
     * [批注或答复](quickstart/NOTE&REPLY.md)
+    * [视频回放](quickstart/REVIEWER.md)
 * [进阶功能](ADVANCED.md)
     * [创建实体类型](advanced/ENTITYTYPE.md)
     * [创建字段](advanced/FIELD.md)
